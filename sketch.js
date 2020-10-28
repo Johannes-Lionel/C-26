@@ -18,6 +18,7 @@ function setup(){
 
 
     ground = new Ground(600,height,1200,20);
+    
     //working directry 
     //staging area
     //your repositery
